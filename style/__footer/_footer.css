@@ -1,0 +1,123 @@
+.footer {
+  width: 100%;
+  height: 650px;
+  background: #1e1e1e;
+}
+.footer-block {
+  max-width: 1440px;
+  height: 100%;
+  margin: 0 auto;
+  display: flex;
+  align-items: center;
+  position: relative;
+}
+
+.quick-links {
+  max-width: 200px;
+  height: 420px;
+  margin-right: 90px;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+}
+.quick-links__headin {
+  font-family: "Gilda Display";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 36px;
+  line-height: 42px;
+  color: #ffffff;
+}
+.quick-links__link {
+  font-family: "Barlow Condensed";
+  font-style: normal;
+  font-weight: 300;
+  font-size: 24px;
+  line-height: 29px;
+  letter-spacing: 0.1em;
+  color: #ffffff;
+}
+.quick-links__link:hover {
+  cursor: pointer;
+  text-decoration: underline;
+}
+.contacts {
+  max-width: 420px;
+  height: 420px;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+}
+.contacts__heading {
+  font-family: "Gilda Display";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 36px;
+  line-height: 42px;
+  color: #ffffff;
+}
+
+.footer-contact__block {
+  width: 100%;
+  display: flex;
+  justify-content: start;
+  align-items: center;
+}
+
+.footer__contact {
+  font-family: "Barlow Condensed";
+  font-style: normal;
+  font-weight: 300;
+  font-size: 24px;
+  line-height: 29px;
+  display: flex;
+  align-items: center;
+  letter-spacing: 0.1em;
+  color: #ffffff;
+}
+.footer__icon {
+  margin-right: 10px;
+}
+.footer__tel {
+  width: 200px;
+}
+.footer__section-form {
+  margin: 0;
+  position: absolute;
+  top: -170px;
+  right: 100px;
+}
+.footer__request {
+  height: 650px;
+  padding: 50px;
+}
+
+.footer__form-block {
+  height: 200px;
+  flex-wrap: wrap !important;
+  justify-content: space-around;
+}
+.footer__request {
+}
+.footer__heading-block {
+}
+.footer__form {
+  width: 550px;
+  height: 550px;
+}
+.form-block__input_size {
+  width: 230px;
+}
+.section-block_flex {
+  display: flex;
+  justify-content: space-around;
+}
+.form-block__select_size {
+  width: 160px !important;
+}
+.footer__form-checkbox {
+  width: 550px;
+}
+.footer__button {
+  margin-top: 20px;
+}

@@ -1,0 +1,30 @@
+.specialities {
+  max-width: 1920px;
+  height: 500px;
+  margin: 150px auto;
+  padding: 100px 5px;
+  background: url(/image/__specialities/1.png) 50% 50% no-repeat;
+  background-size: auto;
+}
+.header__specialitie {
+  max-width: 1440px;
+  margin: 0 auto;
+  text-align: left;
+}
+.specialities__text_color {
+  color: #EBEBEB;
+}
+.specialities__heading_color {
+  color: #fff;
+}
+.specialities__text {
+  width: 100%;
+  height: 360px;
+  margin: 50px 0 0 0;
+  font-style: normal;
+  font-weight: 300;
+  font-size: 24px;
+  line-height: 220%;
+  text-transform: capitalize;
+  color: #ebebeb;
+}

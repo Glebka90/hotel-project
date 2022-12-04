@@ -1,0 +1,18 @@
+@import url(./style/__normalize/normalize.css);
+@import url(./style/__element/_element.css);
+@import url(./style/__wrapper/_wrapper.css);
+@import url(./style/__header/_header.css);
+@import url(./style/__section/_section-form.css);
+@import url(./style/__section/_section-info.css);
+@import url(./style/__section/_services-block-background.css);
+@import url(./style/__section/_services.css);
+@import url(./style/__section/_achievement.css);
+@import url(./style/__section/_specialities.css);
+@import url(./style/__section/_our-hotel-rooms.css);
+@import url(./style/__section/_reviews.css);
+@import url(./style/__section/_gallery.css);
+@import url(./style/__footer/_footer.css);
+
+
+
+

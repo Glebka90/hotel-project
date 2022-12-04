@@ -1,0 +1,83 @@
+.header {
+  max-width: 1920px;
+  height: 1000px;
+  padding: 25px 0 0 0;
+  margin: 0 auto;
+  background: url(/image/__wrapper__contact/Rectangle\ 1.png) 50% 50% no-repeat;
+}
+.header__bar {
+  max-width: 1440px;
+  height: 67px;
+  margin: 0 auto;
+  margin-top: 26px;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+.navigation {
+  width: 880px;
+  height: 70px;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+.menu {
+  width: 400px;
+  display: flex;
+  justify-content: space-between;
+}
+.menu__link {
+  font-style: normal;
+  font-weight: 400;
+  font-size: 20px;
+  line-height: 24px;
+  letter-spacing: 0.1em;
+  text-transform: uppercase;
+}
+.menu__link:hover {
+  text-decoration: underline;
+}
+.header__list-button {
+  width: 430px;
+  margin-right: 5px;
+  display: flex;
+  justify-content: space-between;
+}
+.button {
+}
+.header__button {
+}
+.header__button_book {
+  max-width: 170px;
+}
+.header__info-block {
+  max-width: 855px;
+  margin: 0 auto;
+  margin-top: 150px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: space-around;
+}
+.info-text {
+  font-family: "Barlow Condensed";
+  font-style: normal;
+  margin: 0;
+  font-weight: 300;
+  font-size: 30px;
+  line-height: 36px;
+  letter-spacing: 0.2em;
+  text-transform: capitalize;
+}
+
+.heading {
+  font-family: "Gilda Display";
+  font-style: normal;
+  margin: 10px 0 80px 0;
+  font-weight: 400;
+  font-size: 76px;
+  line-height: 89px;
+  text-align: center;
+  letter-spacing: 0.1em;
+  text-transform: capitalize;
+}
